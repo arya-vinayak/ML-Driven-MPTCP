@@ -1,7 +1,7 @@
 # ML-Driven-MPTCP
 Here’s a README file formatted for GitHub with the provided instructions:
 
-```markdown
+markdown
 # MPTCP Configuration Guide
 
 This guide provides step-by-step instructions for configuring Multipath TCP (MPTCP) on supported distributions (CentOS, Debian, Ubuntu 22.04+). Ensure that you have the recent kernel installed and MPTCP enabled.
